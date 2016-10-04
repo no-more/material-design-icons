@@ -1,6 +1,6 @@
 {
   "name": "material-design-icons",
-  "version": "3.0.1",
+  "version": "3.0.2-beta.0",
   "description": "Material Design icons by Google",
   "main": "index.js",
   "repository": {
@@ -31,5 +31,7 @@
     "through2": "^2.0.0",
     "underscore.string": "^3.2.2",
     "vinyl": "^1.1.0"
-  }
+  },
+  "dependencies": {},
+  "scripts": {}
 }
